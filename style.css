@@ -1,0 +1,149 @@
+html{
+    display: block;
+}
+head{
+    display: none;
+}
+meta{
+    display: block;
+}
+body{
+    display: block;
+}
+section{
+    display: block;
+}
+.main-header{
+    width: 380px;
+    margin: 50px auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+}
+.main-div{
+    display: flex;
+    justify-content: space-between;
+}
+.bell-img{
+    width: 15px;
+    height: 16px;
+}
+.main-div p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.dot-img{
+    width: 15px;
+    height: 16px;
+}
+.girl-image-editer{
+    margin-left: 120px;
+    position: relative;
+}
+.girl{
+    border-radius: 50%;
+}
+.edit{
+    position: absolute;
+    top: 65%;
+    right: 55%;
+}
+.eliz-data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eliz{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.data{
+    display: flex;
+    margin-top: -30px;
+    justify-content: center;
+    align-items: center;
+}
+.Post-32 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.num {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.name {
+    margin-top: -10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #666666;
+}
+.border {
+    border-left: 2px solid #666666;
+    border-right: 2px solid #666666;
+    height: 2px;
+}
+.Post-32 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.live {
+    text-align: center;
+    margin-top: -10px;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+    font-weight: 400;
+}
+.main-icon{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.image2 {
+    margin-top: -5px;
+}
+.image1 {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+        padding-top: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    gap: 5px;
+        row-gap: 5px;
+        column-gap: 5px;
+}
+.main1-div {
+    position: relative;
+}
+.coco-image {
+    width: 125px;
+    height: 155px;
+    object-fit: cover;
+}
+.audio-icon {
+    position: absolute;
+    right: 7px;
+    top: 7px;
+}
+.play-icon{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
